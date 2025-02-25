@@ -1,9 +1,8 @@
-# 🙌 Credits
 
-Terima kasih kepada **[akbaradhakw](https://github.com/akbaradhakw)** atas kontribusinya dalam proyek ini! 🎉
 
-## 📸 Profil
+## 📸 Kelompok
 ![GitHub Profile](https://github.com/akbaradhakw.png)
+![GitHub Profile](https://github.com/dhaniil.png)
 
 Jangan lupa untuk mengunjungi dan mendukung kontribusi beliau di GitHub: [akbaradhakw](https://github.com/akbaradhakw)
 
